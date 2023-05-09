@@ -27,7 +27,7 @@
         </div>
         <div class="flex justify-center items-center mt-6">
           <img
-            src="../../images/Ellipse 1.png"
+            src="../../images/Ellipse1.png"
             alt="img"
             class="w-48 h-48 lg:w-64 lg:h-64"
           />
